@@ -1,28 +1,4 @@
 <h1 align="center">
-    Valentine's Wish
+    To my love
 </h1>
-
-[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
-
-
-#### [See it Live](https://govindcodes.github.io/ValentineWish/)
-
-## Make your own version :computer:
-
-:camera::camera::camera::camera::camera::camera::camera:
-*Start with Smile*:smile::smile:
-
-* Fork the repository
-* Open `customize.json` and replace name/wish-message/image with your own
-* Turn on GitHub pages for the repository (Settings > GitHub Pages)
-* Send the URL that you get at the above step to your friend
-
-
-## Contributing
-
-If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
-
-Stay happy and keep the people you care about happy. :)
-
-#### OwnerShip
- The animations used in the Repository is created by Afiur Rahman Fahim(faahim).:smile:
+If you read this, I hope our hearts clash and the world blows up. Dani, I could fail some times. Yet, I must be sincere with you. All my feelings are to you, you deserve the world. I promise to give it to you, I promise to carry us to the stars. You're at the level of my expectations, and I am at the level of your wishes. Let's make a family together. I really love you, with all my heart my little girl.
